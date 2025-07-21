@@ -17,27 +17,6 @@ Hi there! 👋 I’m Akanksha Tripathi, a passionate student at VIT (VIT Univers
 - **Databases**: MySQL, MongoDB
 - **Others**: Problem Solving, Data Structures, Algorithms
 
-## Projects
-
-Here are a few projects I’ve worked on recently:
-
-1. **Project 1**: [Project Name](link-to-project)
-   - Description: A brief description of the project.
-   - Technologies used: [List of Technologies]
-   
-2. **Project 2**: [Project Name](link-to-project)
-   - Description: A brief description of the project.
-   - Technologies used: [List of Technologies]
-
-3. **Project 3**: [Project Name](link-to-project)
-   - Description: A brief description of the project.
-   - Technologies used: [List of Technologies]
-
-## Contact Me
-
-- 📫 You can reach me via email: [Your Email]
-- 📱 Follow me on [LinkedIn](linkedin.com/in/) for updates on my work and projects.
-
 ## Let's Connect!
 
 - Feel free to check out my repositories and contribute to any open-source projects I am working on. I am always open to feedback and collaboration!
