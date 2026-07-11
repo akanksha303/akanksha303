@@ -13,7 +13,7 @@ Hi there! 👋 I’m Akanksha Tripathi, a passionate student at VIT (VIT Univers
 
 - **Programming Languages**: Python, C++, Java, JavaScript
 - **Web Development**: HTML, CSS, JavaScript, React
-- **Tools & Frameworks**: Git, GitHub, Node.js, Django, Flask
+- **Tools & Frameworks**: Git, GitHub, Node.js, Flask
 - **Databases**: MySQL, MongoDB
 - **Others**: Problem Solving, Data Structures, Algorithms
 
