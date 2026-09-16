@@ -7,9 +7,75 @@
 ### 🤖 AI/ML • 📊 Data Science • ⚡ Backend Engineering
 
 I'm a Computer Science Engineering student who enjoys turning
-**data, models, and APIs into practical applications.**
+**data, models and APIs into practical applications.**
 
 </div>
+
+---
+
+## 🚀 Current Focus
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 Machine Learning
+
+**90%**
+
+`██████████████████░░`
+
+Building and experimenting with predictive models,
+feature engineering, and explainable architectures.
+
+</td>
+
+<td width="50%">
+
+### 📊 Data Science
+
+**88%**
+
+`█████████████████░░░`
+
+Conducting exploratory data analysis, statistical modeling,
+and real-time inference pipelines.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 Generative AI & LLMs
+
+**80%**
+
+`████████████████░░░░`
+
+Developing intelligent agents, contextual workflows,
+and fine-tuned language applications.
+
+</td>
+
+<td width="50%">
+
+### ⚡ Backend Engineering
+
+**78%**
+
+`███████████████░░░░░`
+
+Designing high-throughput microservices, robust REST APIs,
+and relational database architectures.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -20,37 +86,42 @@ I'm a Computer Science Engineering student who enjoys turning
 - 📊 Passionate about solving complex problems through **data architecture, statistics, and system design**
 - 💻 Building robust end-to-end applications from database schemas to interactive client interfaces
 - 🧠 Fine-tuning transformer models and crafting explainable AI solutions
-- 🚀 Turning technical concepts into production-ready software
-- 🏐 Volleyball enthusiast outside the world of code
+- 🚀 I enjoy turning technical concepts into production-ready software
 - ☕ Coffee + Music + Coding = Perfect Productivity
 
 ---
 
-## ⚡ System Pipeline & Architecture
+## 🛠️ Technical Skills
 
-```python
-from dataclasses import dataclass
-from typing import List, Dict
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,ts,js,html,css,react,nextjs,vue,tailwind,nodejs,express,fastapi,dotnet,postgres,mongodb,mysql,aws,docker,linux,git,vscode,figma&perline=8" />
+</div>
 
-@dataclass
-class EngineerPipeline:
-    identity: str = "Akanksha Tripathi"
-    status: str = "B.Tech CSE @ VIT Bhopal (Final Year)"
-    
-    # Core Stack & Tooling
-    languages: List[str] = ("Python", "C++", "Java", "TypeScript", "SQL")
-    backend_systems: List[str] = ("FastAPI", "ASP.NET Core", "Node.js", "Express")
-    intelligence_layer: List[str] = ("Scikit-learn", "TensorFlow", "Transformers", "SHAP")
-    data_cloud: List[str] = ("PostgreSQL", "MongoDB", "AWS", "Docker")
+<br>
 
-    async def execute_workflow(self, problem: Dict[str, str]) -> str:
-        """Transforms complex requirements into production-grade intelligence."""
-        raw_data = await self.fetch_and_clean(problem["data_source"])
-        model = self.train_eval_explain(raw_data, framework="PyTorch/Scikit-learn")
-        api_endpoint = self.serve_microservice(model, engine="FastAPI/Docker")
-        return f"System active with real-world impact: {api_endpoint}"
 
-    def current_mission(self) -> str:
-        return "Architecting scalable backend pipelines powered by explainable AI."
 
-akanksha = EngineerPipeline()
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=akanksha303&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Engineering Trajectory
+
+```text
+Algorithmic Problem Solving & System Architecture
+                     ↓
+Predictive Analytics & Statistical Modeling
+                     ↓
+Explainable Deep Learning & Generative AI
+                     ↓
+High-Throughput Microservices & Cloud Infrastructure
+                     ↓
+Production-Grade Intelligent Distributed Systems
