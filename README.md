@@ -34,15 +34,6 @@ I'm a Computer Science Engineering student who enjoys turning
 
 <br>
 
-| Domain | Ecosystem & Tooling |
-| :--- | :--- |
-| **Languages** | Java • C++ • Python • TypeScript • JavaScript • SQL |
-| **Backend & APIs** | FastAPI • ASP.NET Core (.NET 8) • Node.js • Express.js • REST APIs • JWT |
-| **Frontend & Design** | React • Next.js • Vue.js • Tailwind CSS • HTML5 • CSS3 • Figma |
-| **Databases & ORM** | PostgreSQL • MongoDB • MySQL • Prisma ORM • Entity Framework |
-| **AI / ML & Data** | TensorFlow • Scikit-learn • Pandas • NumPy • SciPy • Matplotlib • Seaborn • SHAP • Transformers |
-| **Cloud & DevOps** | AWS (S3, SageMaker, RDS) • Docker • Git • Linux • VS Code |
-| **Core Concepts** | Data Structures & Algorithms • OOP • Supervised Learning • Deep Learning • NLP • System Design |
 
 ---
 
@@ -55,70 +46,5 @@ I'm a Computer Science Engineering student who enjoys turning
 </div>
 ---
 
-## 🚀 Current Focus
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🤖 Machine Learning
-
-**90%**
-
-`██████████████████░░`
-
-Building and experimenting with predictive models,
-feature engineering, and explainable architectures.
-
-</td>
-
-<td width="50%">
-
-### 📊 Data Science
-
-**88%**
-
-`█████████████████░░░`
-
-Conducting exploratory data analysis, statistical modeling,
-and real-time inference pipelines.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🧠 Generative AI & LLMs
-
-**80%**
-
-`████████████████░░░░`
-
-Developing intelligent agents, contextual workflows,
-and fine-tuned language applications.
-
-</td>
-
-<td width="50%">
-
-### ⚡ Backend Engineering
-
-**78%**
-
-`███████████████░░░░░`
-
-Designing high-throughput microservices, robust REST APIs,
-and relational database architectures.
-
-</td>
-
-</tr>
-</table>
-
----
 
 
