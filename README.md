@@ -1,46 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3FC7,50:4F46E5,100:2563EB&height=220&section=header&text=Akanksha%20Tripathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Backend%20Engineering&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,40:064E6B,70:0891B2,100:22D3EE&height=230&section=header&text=AKANKSHA%20TRIPATHI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20DATA%20%7C%20BACKEND&descAlignY=58&descSize=18"/>
 
-# 👋 Hi, I'm Akanksha
+<h3>🌊 Dive Deep. Build Things. Keep Exploring.</h3>
 
-### 🤖 AI/ML • 📊 Data Science • ⚡ Backend Engineering
+<p>
+Computer Science Engineering student • AI/ML enthusiast • Backend builder
+</p>
 
-I'm a Computer Science Engineering student who enjoys turning
-**data, models and APIs into practical applications.**
+<p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/akanksha303">
+<img src="https://img.shields.io/badge/GitHub-164E63?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 🐚 Who's Down Here?
+
+I'm **Akanksha**, a final-year Computer Science Engineering student at **VIT Bhopal**.
+
+I enjoy exploring the space where **Artificial Intelligence, data and software engineering** meet.
+
+Some days I'm training a model.
+
+Some days I'm building an API.
+
+Some days I'm debugging something that worked perfectly five minutes ago. 😭
+
+Currently diving deeper into **Machine Learning, Data Science, GenAI and Backend Engineering**.
+
+---
+
+## 🧭 My Current Expedition
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Machine Learning
 
-**90%**
+Exploring how models learn from data and how to make them more useful in real applications.
 
-`██████████████████░░`
-
-Building and experimenting with ML models,
-feature engineering and model evaluation.
+`CNN` `Scikit-learn` `TensorFlow` `Feature Engineering`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Data Science
 
-**88%**
+Finding patterns and stories hidden inside data.
 
-`█████████████████░░░`
-
-Exploring EDA, statistical analysis,
-visualization and predictive analytics.
+`EDA` `Statistics` `Pandas` `NumPy` `Visualization`
 
 </td>
 
@@ -48,29 +71,23 @@ visualization and predictive analytics.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 GenAI & LLMs
+### 🧠 GenAI
 
-**80%**
+Exploring LLMs and AI-powered applications beyond simply calling an API.
 
-`████████████████░░░░`
-
-Building AI-powered applications and
-exploring LLM-based solutions.
+`NLP` `Transformers` `LLMs` `AI Applications`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ FastAPI & Backend
+### ⚡ Backend Engineering
 
-**75%**
+Learning to build reliable systems behind the interface.
 
-`███████████████░░░░░`
-
-Building REST APIs, backend services
-and AI-powered applications.
+`FastAPI` `Node.js` `REST APIs` `PostgreSQL`
 
 </td>
 
@@ -79,44 +96,74 @@ and AI-powered applications.
 
 ---
 
-## 💜 A Little More About Me
+# 💻 My Programming Languages
 
-- 🎓 Final-year **Computer Science Engineering** student at **VIT Bhopal**
-- 📚 Strong interest in **Artificial Intelligence, Machine Learning and Data Science**
-- 📊 Interested in solving problems using **data, statistics and predictive models**
-- 💻 Building backend systems with **FastAPI, Node.js and REST APIs**
-- 🧠 Exploring **GenAI and LLM-powered applications**
-- 🚀 I enjoy turning ideas into working projects
-- 🏐 Volleyball enthusiast outside the world of code
-- ☕ Coffee + Music + Coding = Perfect Productivity
+<table>
+<tr>
+<th>🌊 Language</th>
+<th>🔧 Where I Use It</th>
+</tr>
+
+<tr>
+<td>🐍 <b>Python</b></td>
+<td>Machine Learning • Data Science • FastAPI • Automation</td>
+</tr>
+
+<tr>
+<td>☕ <b>Java</b></td>
+<td>DSA • OOP • Problem Solving</td>
+</tr>
+
+<tr>
+<td>⚙️ <b>C++</b></td>
+<td>DSA • Algorithms • Problem Solving</td>
+</tr>
+
+<tr>
+<td>🗄️ <b>SQL</b></td>
+<td>Data Analysis • Queries • Database Management</td>
+</tr>
+
+<tr>
+<td>🟨 <b>JavaScript</b></td>
+<td>Web Development • Backend</td>
+</tr>
+
+<tr>
+<td>🔷 <b>TypeScript</b></td>
+<td>React • Full-Stack Development</td>
+</tr>
+
+</table>
 
 ---
 
-## 🛠️ My Tech Stack
+# 🤿 My Dive Kit
 
-### 👩‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
-</p>
-
-### 🤖 AI / ML & Data Science
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-`NumPy` • `Pandas` • `SciPy` • `Matplotlib` • `NLP` • `Transformers`
+`Scikit-learn` • `NumPy` • `Pandas` • `SciPy` • `Matplotlib` • `Keras` • `NLP` • `Transformers`
 
-### ⚡ Backend & Databases
+### ⚡ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
 </p>
 
-`REST APIs` • `SQL` • `Prisma` • `JWT`
+`REST APIs` • `Prisma` • `JWT`
 
-### 🔧 Tools
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
@@ -124,34 +171,56 @@ and AI-powered applications.
 
 ---
 
-# 🌟 Featured Projects
+# 🐙 My Project Reef
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 NeuroSense
+## 🧠 NeuroSense
 
-**EEG Brain Tumor Classification**
+### EEG Brain Tumor Classification
 
-Machine learning project focused on classifying EEG signals using CNNs.
+A deep-learning project exploring classification of EEG signals.
 
-**Tech:**  
-Python • TensorFlow • Keras • NumPy • Pandas • Scikit-learn
+**Built with**
+
+`Python` `TensorFlow` `Keras`  
+`NumPy` `Pandas` `Scikit-learn`
+
+**Highlights**
+
+- 500+ Kaggle samples
+- EEG preprocessing and normalization
+- CNN-based classification
+- Model evaluation and visualization
+- 90%+ reported accuracy
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 CareSync
+## 🏥 CareSync
 
-**Healthcare Management Platform**
+### Healthcare Management Platform
 
-A full-stack platform connecting patients, doctors and administrators with appointment and medical-record management.
+A full-stack platform connecting patients, doctors and administrators.
 
-**Tech:**  
-React • TypeScript • Node.js • PostgreSQL • Prisma • JWT • Groq API
+**Built with**
+
+`React` `TypeScript` `Node.js`  
+`PostgreSQL` `Prisma` `JWT`
+
+**Highlights**
+
+- Patient / Doctor / Admin portals
+- Appointment management
+- Medical records & prescriptions
+- Transaction-based slot locking
+- AI symptom triage & note summarization
+
+> **Everything in place. Everyone in sync.**
 
 </td>
 
@@ -159,29 +228,49 @@ React • TypeScript • Node.js • PostgreSQL • Prisma • JWT • Groq API
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 FinFlow AI
+## 🛡️ RiskTrack
 
-**AI Expense Management**
+### Transaction Risk Detection
 
-Expense tracking and budgeting application with categorized spending, financial goals and AI-powered functionality.
+A backend risk engine designed to identify unusual transaction activity.
 
-**Tech:**  
-React • Node.js • Express • PostgreSQL • Prisma
+**Built with**
+
+`FastAPI` `Python` `SQLAlchemy`  
+`PostgreSQL`
+
+**Signals explored**
+
+- Transaction velocity
+- Amount anomalies
+- Geographic mismatch
+- Unusual transaction hours
+- New merchant activity
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ RiskTrack
+## 💰 FinFlow AI
 
-**Transaction Risk Detection**
+### Expense Management
 
-A risk-scoring backend that analyzes transaction signals such as velocity, amount anomalies, geographic mismatch and unusual activity.
+An expense-management application focused on budgeting and financial organization.
 
-**Tech:**  
-FastAPI • Python • SQLAlchemy • PostgreSQL
+**Built with**
+
+`React` `Node.js` `Express`  
+`PostgreSQL` `Prisma`
+
+**Features**
+
+- Expense categorization
+- Budget management
+- Multiple financial goals
+- Protected API endpoints
+- AI-powered functionality
 
 </td>
 
@@ -190,37 +279,21 @@ FastAPI • Python • SQLAlchemy • PostgreSQL
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akanksha303&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha303&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=akanksha303&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
+# 🗺️ My Tech Journey
 
 ```text
-Machine Learning
-      ↓
-Data Science & Statistical Analysis
-      ↓
-GenAI & LLM Applications
-      ↓
-FastAPI & Backend Engineering
-      ↓
-Scalable AI-powered Systems
+                         🌊 NOW
+                           │
+                    🧠 GenAI / LLMs
+                           │
+                    📊 Data Science
+                           │
+                   🤖 Machine Learning
+                           │
+                    ⚡ Development
+                           │
+                    💻 CS Fundamentals
+                           │
+                      🎓 VIT Bhopal
+                           │
+                          2023
