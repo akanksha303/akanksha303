@@ -1,220 +1,68 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3FC7,50:4F46E5,100:2563EB&height=220&section=header&text=Akanksha%20Tripathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Backend%20Engineering&descAlignY=58&descSize=18"/>
+👋 Hi, I'm Akanksha
+🤖 AI/ML  •  📊 Data Science  •  ⚡ Backend Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3FC7,50:4F46E5,100:2563EB&height=220&section=header&text=Akanksha%20Tripathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Backend%20Engineering&descAlignY=58&descSize=18"/>
+Computer Science Engineering student who enjoys turning data, models, and APIs into practical, production-ready applications.
 
-# 👋 Hi, I'm Akanksha
+<p> <a href="#"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" /></a> <a href="#"><img src="https://img.shields.io/badge/Focus-SDE%20%7C%20AI%2FML%20%7C%20Business%20Analytics-4F46E5?style=flat-square" /></a> </p> </div>
+🚀 Current Focus
+<table> <tr> <td width="50%">
+🤖 Machine Learning — 90%
 
-### 🤖 AI/ML • 📊 Data Science • ⚡ Backend Engineering
+██████████████████░░ Building and evaluating ML models, with an emphasis on feature engineering and rigorous validation.
 
-I'm a Computer Science Engineering student who enjoys turning
-**data, models and APIs into practical applications.**
+</td> <td width="50%">
+📊 Data Science — 88%
 
-</div>
+█████████████████░░░ Exploratory data analysis, statistical modeling, visualization, and predictive analytics.
 
----
+</td> </tr> <tr> <td width="50%">
+🧠 GenAI & LLMs — 80%
 
-## 🚀 Current Focus
+████████████████░░░░ Designing and building GenAI-powered applications using modern LLM tooling.
 
-<table>
-<tr>
+</td> <td width="50%">
+⚡ FastAPI & Backend — 75%
 
-<td width="50%">
+███████████████░░░░░ Developing REST APIs and backend services that power AI-driven applications.
 
-### 🤖 Machine Learning
+</td> </tr> </table>
+💜 About Me
+🎓 Final-year Computer Science Engineering student at VIT Bhopal
+📚 Strong focus on Artificial Intelligence, Machine Learning, and Data Science
+📊 Passionate about solving real-world problems through data, statistics, and predictive modeling
+💻 Backend development experience with FastAPI, Node.js, and REST APIs
+🧠 Actively exploring GenAI and LLM-powered application development
+🚀 Enjoy taking ideas from concept to working product
+🏐 Volleyball enthusiast outside the world of code
+☕ Coffee + Music + Code = peak productivity
+🛠️ Tech Stack
 
-**90%**
+Languages
 
-`██████████████████░░`
+<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" /> </p>
 
-Building and experimenting with ML models,
-feature engineering and model evaluation.
+AI / ML & Data Science
 
-</td>
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /> </p>
 
-<td width="50%">
+NumPy Pandas SciPy Matplotlib NLP Transformers
 
-### 📊 Data Science
+Backend & Databases
 
-**88%**
+<p> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb" /> </p>
 
-`█████████████████░░░`
+REST APIs SQL Prisma JWT
 
-Exploring EDA, statistical analysis,
-visualization and predictive analytics.
+Tools
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🧠 GenAI & LLMs
-
-**80%**
-
-`████████████████░░░░`
-
-Building AI-powered applications and
-exploring LLM-based solutions.
-
-</td>
-
-<td width="50%">
-
-### ⚡ FastAPI & Backend
-
-**75%**
-
-`███████████████░░░░░`
-
-Building REST APIs, backend services
-and AI-powered applications.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 💜 A Little More About Me
-
-- 🎓 Final-year **Computer Science Engineering** student at **VIT Bhopal**
-- 📚 Strong interest in **Artificial Intelligence, Machine Learning and Data Science**
-- 📊 Interested in solving problems using **data, statistics and predictive models**
-- 💻 Building backend systems with **FastAPI, Node.js and REST APIs**
-- 🧠 Exploring **GenAI and LLM-powered applications**
-- 🚀 I enjoy turning ideas into working projects
-- 🏐 Volleyball enthusiast outside the world of code
-- ☕ Coffee + Music + Coding = Perfect Productivity
-
----
-
-## 🛠️ My Tech Stack
-
-### 👩‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
-</p>
-
-### 🤖 AI / ML & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</p>
-
-`NumPy` • `Pandas` • `SciPy` • `Matplotlib` • `NLP` • `Transformers`
-
-### ⚡ Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb" />
-</p>
-
-`REST APIs` • `SQL` • `Prisma` • `JWT`
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🧠 NeuroSense
-
-**EEG Brain Tumor Classification**
-
-Machine learning project focused on classifying EEG signals using CNNs.
-
-**Tech:**  
-Python • TensorFlow • Keras • NumPy • Pandas • Scikit-learn
-
-</td>
-
-<td width="50%">
-
-### 🏥 CareSync
-
-**Healthcare Management Platform**
-
-A full-stack platform connecting patients, doctors and administrators with appointment and medical-record management.
-
-**Tech:**  
-React • TypeScript • Node.js • PostgreSQL • Prisma • JWT • Groq API
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💰 FinFlow AI
-
-**AI Expense Management**
-
-Expense tracking and budgeting application with categorized spending, financial goals and AI-powered functionality.
-
-**Tech:**  
-React • Node.js • Express • PostgreSQL • Prisma
-
-</td>
-
-<td width="50%">
-
-### 🛡️ RiskTrack
-
-**Transaction Risk Detection**
-
-A risk-scoring backend that analyzes transaction signals such as velocity, amount anomalies, geographic mismatch and unusual activity.
-
-**Tech:**  
-FastAPI • Python • SQLAlchemy • PostgreSQL
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akanksha303&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha303&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=akanksha303&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-```text
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /> </p>
+📊 GitHub Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=akanksha303&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha303&layout=compact&theme=tokyonight&hide_border=true" /> </div>
+🔥 GitHub Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=akanksha303&theme=tokyonight&hide_border=true" /> </div>
+🌱 Currently Learning
+text
 Machine Learning
       ↓
 Data Science & Statistical Analysis
@@ -224,3 +72,8 @@ GenAI & LLM Applications
 FastAPI & Backend Engineering
       ↓
 Scalable AI-powered Systems
+<div align="center">
+
+📫 Let's connect — always open to conversations on AI/ML, data science, and backend engineering.
+
+</div>
