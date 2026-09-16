@@ -92,97 +92,113 @@ and AI-powered applications.
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Technical Skills
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-### 👩‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=3" />
-
+<td align="center" width="16.6%">
+<b>C++</b><br>
+<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
 </td>
 
-<td align="center" width="25%">
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&perline=3" />
-
-<br><br>
-
-NumPy • Pandas • Keras
-
+<td align="center" width="16.6%">
+<b>Java</b><br>
+<img src="https://skillicons.dev/icons?i=java" width="45"/>
 </td>
 
-<td align="center" width="25%">
-
-### 📊 Data
-
-<img src="https://skillicons.dev/icons?i=python&perline=3" />
-
-<br><br>
-
-SciPy • Matplotlib • NLP • Transformers
-
+<td align="center" width="16.6%">
+<b>Python</b><br>
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="16.6%">
+<b>SQL</b><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</td>
 
-### ⚡ Backend
+<td align="center" width="16.6%">
+<b>HTML</b><br>
+<img src="https://skillicons.dev/icons?i=html" width="45"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&perline=3" />
-
-<br><br>
-
-REST APIs • Prisma
-
+<td align="center" width="16.6%">
+<b>CSS</b><br>
+<img src="https://skillicons.dev/icons?i=css" width="45"/>
 </td>
 </tr>
 
 <tr>
-
 <td align="center">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
-
+<b>JavaScript</b><br>
+<img src="https://skillicons.dev/icons?i=javascript" width="45"/>
 </td>
 
 <td align="center">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css&perline=3" />
-
+<b>Node.js</b><br>
+<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
 </td>
 
 <td align="center">
+<b>Express.js</b><br>
+<img src="https://skillicons.dev/icons?i=express" width="45"/>
+</td>
 
-### 🔐 Authentication
+<td align="center">
+<b>React</b><br>
+<img src="https://skillicons.dev/icons?i=react" width="45"/>
+</td>
+
+<td align="center">
+<b>FastAPI</b><br>
+<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
+</td>
+
+<td align="center">
+<b>AWS</b><br>
+<img src="https://skillicons.dev/icons?i=aws" width="45"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>TensorFlow</b><br>
+<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
+</td>
+
+<td align="center">
+<b>Scikit-learn</b><br>
+<img src="https://skillicons.dev/icons?i=sklearn" width="45"/>
+</td>
+
+<td align="center">
+<b>Git</b><br>
+<img src="https://skillicons.dev/icons?i=git" width="45"/>
+</td>
+
+<td align="center">
+<b>Linux</b><br>
+<img src="https://skillicons.dev/icons?i=linux" width="45"/>
+</td>
+
+<td align="center">
+<b>VS Code</b><br>
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+</td>
+
+<td align="center">
+<b>Figma</b><br>
+<img src="https://skillicons.dev/icons?i=figma" width="45"/>
+</td>
+</tr>
+</table>
 
 <br>
 
-`JWT`
+**AI/ML & Data:** NumPy • SciPy • Pandas • Matplotlib • Seaborn • Transformers
 
-<br><br>
+**Backend:** REST APIs • JWT
 
-`RBAC`
-
-</td>
-
-<td align="center">
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=3" />
-
-</td>
-
-</tr>
-</table>
+**Concepts:** OOP • Data Structures & Algorithms • Supervised Learning • Data Modeling • NLP • Clustering • Deep Learning
 
 ---
 
