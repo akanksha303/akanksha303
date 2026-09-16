@@ -1,62 +1,55 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3FC7,50:4F46E5,100:2563EB&height=220&section=header&text=Akanksha%20Tripathi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Backend%20Engineering&descAlignY=58&descSize=18"/>
-👋 Hi, I'm Akanksha
 🤖 AI/ML  •  📊 Data Science  •  ⚡ Backend Engineering
+<p> <a href="https://linkedin.com/in/your-linkedin-here"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:your-email-here@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/akanksha303"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> </p> </div>
+👋 Hi, I'm Akanksha
 
-Computer Science Engineering student who enjoys turning data, models, and APIs into practical, production-ready applications.
+I'm a Computer Science Engineering student who just loves writing code and figuring out how things work — from machine learning models to the APIs that carry them into the real world.
 
-<p> <a href="#"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" /></a> <a href="#"><img src="https://img.shields.io/badge/Focus-SDE%20%7C%20AI%2FML%20%7C%20Business%20Analytics-4F46E5?style=flat-square" /></a> </p> </div>
+python
+class Akanksha:
+    def __init__(self):
+        self.nickname = "Kuku"
+        self.role = "CSE Student, AI/ML & Backend Enthusiast"
+        self.location = "Bhopal, India"
+        self.education = "B.Tech CSE @ VIT Bhopal, Class of 2027"
+        self.languages = ["Python", "Java", "JavaScript", "SQL", "HTML", "CSS"]
+        self.currently_exploring = ["GenAI", "LLMs", "FastAPI", "Scalable Systems"]
+        self.fun_fact = "Coffee + music + code = my happy place ☕🎧"
+💜 A Little More About Me
+🎓 4th-year Computer Science Engineering student at VIT Bhopal, graduating 2027
+🎨 Design Lead at the GeeksforGeeks Student Chapter
+📄 Published an IEEE paper on EEG-based brain tumor detection
+📚 Genuinely curious about AI, Machine Learning, and Data Science
+💻 Comfortable building backend services with FastAPI, Node.js, and REST APIs
+🎯 Currently exploring roles in SDE, AI/ML, and Business Analytics
+🏐 Volleyball enthusiast outside the world of code
+☕ Coffee + Music + Coding = perfect productivity
 🚀 Current Focus
 <table> <tr> <td width="50%">
-🤖 Machine Learning — 90%
 
-██████████████████░░ Building and evaluating ML models, with an emphasis on feature engineering and rigorous validation.
+🤖 Machine Learning — 90% ██████████████████░░ Building and experimenting with ML models, feature engineering, and evaluation.
 
 </td> <td width="50%">
-📊 Data Science — 88%
 
-█████████████████░░░ Exploratory data analysis, statistical modeling, visualization, and predictive analytics.
+📊 Data Science — 88% █████████████████░░░ EDA, statistical analysis, visualization, and predictive analytics.
 
 </td> </tr> <tr> <td width="50%">
-🧠 GenAI & LLMs — 80%
 
-████████████████░░░░ Designing and building GenAI-powered applications using modern LLM tooling.
+🧠 GenAI & LLMs — 80% ████████████████░░░░ Building AI-powered applications and exploring LLM-based solutions.
 
 </td> <td width="50%">
-⚡ FastAPI & Backend — 75%
 
-███████████████░░░░░ Developing REST APIs and backend services that power AI-driven applications.
+⚡ FastAPI & Backend — 75% ███████████████░░░░░ Building REST APIs and backend services for AI-powered apps.
 
 </td> </tr> </table>
-💜 About Me
-🎓 Final-year Computer Science Engineering student at VIT Bhopal
-📚 Strong focus on Artificial Intelligence, Machine Learning, and Data Science
-📊 Passionate about solving real-world problems through data, statistics, and predictive modeling
-💻 Backend development experience with FastAPI, Node.js, and REST APIs
-🧠 Actively exploring GenAI and LLM-powered application development
-🚀 Enjoy taking ideas from concept to working product
-🏐 Volleyball enthusiast outside the world of code
-☕ Coffee + Music + Code = peak productivity
-🛠️ Tech Stack
+🛠️ My Tech Stack
 
-Languages
+Just the languages and tools I genuinely enjoy coding in — no strict boxes:
 
-<p> <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,java,js,html,css,fastapi,nodejs,express,postgres,mysql,mongodb,tensorflow,sklearn,git,github,linux,vscode" /> </p>
 
-AI / ML & Data Science
+NumPy Pandas SciPy Matplotlib NLP Transformers REST APIs SQL Prisma JWT
 
-<p> <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /> </p>
-
-NumPy Pandas SciPy Matplotlib NLP Transformers
-
-Backend & Databases
-
-<p> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb" /> </p>
-
-REST APIs SQL Prisma JWT
-
-Tools
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /> </p>
 📊 GitHub Analytics
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=akanksha303&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha303&layout=compact&theme=tokyonight&hide_border=true" /> </div>
 🔥 GitHub Streak
@@ -74,6 +67,6 @@ FastAPI & Backend Engineering
 Scalable AI-powered Systems
 <div align="center">
 
-📫 Let's connect — always open to conversations on AI/ML, data science, and backend engineering.
+📫 Let's connect — always up for a conversation about AI/ML, data science, or backend engineering.
 
 </div>
