@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,40:064E6B,70:0891B2,100:22D3EE&height=230&section=header&text=AKANKSHA%20TRIPATHI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20DATA%20%7C%20BACKEND&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061826,45:083B4C,75:087E8B,100:22D3EE&height=220&section=header&text=AKANKSHA%20TRIPATHI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20DATA%20SCIENCE%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=60&descSize=17"/>
 
-<h3>🌊 Dive Deep. Build Things. Keep Exploring.</h3>
+### 🌊 Dive Deep. Build Things. Keep Exploring.
 
-<p>
-Computer Science Engineering student • AI/ML enthusiast • Backend builder
-</p>
+**Computer Science Engineering Student • AI/ML • Data • Software**
 
 <p>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0E7490?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-0E7490?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-087E8B?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/akanksha303">
@@ -26,34 +24,34 @@ Computer Science Engineering student • AI/ML enthusiast • Backend builder
 
 ---
 
-## 🐚 Who's Down Here?
+## 👋 About Me
 
-I'm **Akanksha**, a final-year Computer Science Engineering student at **VIT Bhopal**.
+I'm **Akanksha**, a Computer Science Engineering student at **VIT Bhopal** 
+who enjoys working at the intersection of **AI, data and software engineering**.
 
-I enjoy exploring the space where **Artificial Intelligence, data and software engineering** meet.
+I like understanding how things work, building them into practical applications,
+and learning something new every time a project breaks. :)
 
-Some days I'm training a model.
-
-Some days I'm building an API.
-
-Some days I'm debugging something that worked perfectly five minutes ago. 😭
-
-Currently diving deeper into **Machine Learning, Data Science, GenAI and Backend Engineering**.
+Currently, I'm exploring **Machine Learning, Data Science, GenAI and 
+Full-Stack Software Engineering**.
 
 ---
 
-## 🧭 My Current Expedition
+## 🚀 Current Focus
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🤖 Machine Learning
+### 🤖 AI / Machine Learning
 
-Exploring how models learn from data and how to make them more useful in real applications.
+Exploring how models learn from data and how they can be applied to real-world problems.
 
-`CNN` `Scikit-learn` `TensorFlow` `Feature Engineering`
+`Machine Learning`  
+`Deep Learning`  
+`NLP`  
+`Model Evaluation`
 
 </td>
 
@@ -61,9 +59,12 @@ Exploring how models learn from data and how to make them more useful in real ap
 
 ### 📊 Data Science
 
-Finding patterns and stories hidden inside data.
+Working with data to discover patterns, generate insights and build predictive solutions.
 
-`EDA` `Statistics` `Pandas` `NumPy` `Visualization`
+`EDA`  
+`Statistical Analysis`  
+`Feature Engineering`  
+`Predictive Analytics`
 
 </td>
 
@@ -73,21 +74,27 @@ Finding patterns and stories hidden inside data.
 
 <td width="50%" valign="top">
 
-### 🧠 GenAI
+### ⚡ Software Engineering
 
-Exploring LLMs and AI-powered applications beyond simply calling an API.
+Building applications and backend systems that bring ideas into working products.
 
-`NLP` `Transformers` `LLMs` `AI Applications`
+`Full-Stack Development`  
+`Backend Development`  
+`REST APIs`  
+`Database Systems`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚡ Backend Engineering
+### 🧠 GenAI
 
-Learning to build reliable systems behind the interface.
+Exploring how LLMs and modern AI techniques can become useful parts of software.
 
-`FastAPI` `Node.js` `REST APIs` `PostgreSQL`
+`LLMs`  
+`Transformers`  
+`NLP`  
+`AI Applications`
 
 </td>
 
@@ -96,17 +103,17 @@ Learning to build reliable systems behind the interface.
 
 ---
 
-# 💻 My Programming Languages
+# 💻 Programming Languages
 
 <table>
 <tr>
-<th>🌊 Language</th>
-<th>🔧 Where I Use It</th>
+<th>Language</th>
+<th>Used For</th>
 </tr>
 
 <tr>
 <td>🐍 <b>Python</b></td>
-<td>Machine Learning • Data Science • FastAPI • Automation</td>
+<td>Machine Learning • Data Science • FastAPI</td>
 </tr>
 
 <tr>
@@ -138,162 +145,39 @@ Learning to build reliable systems behind the interface.
 
 ---
 
-# 🤿 My Dive Kit
+# 🧰 Tech Stack
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+`TensorFlow` `Keras` `Scikit-learn` `NumPy`  
+`Pandas` `SciPy` `Matplotlib` `Transformers`
 
-`Scikit-learn` • `NumPy` • `Pandas` • `SciPy` • `Matplotlib` • `Keras` • `NLP` • `Transformers`
+### ⚡ Development
 
-### ⚡ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-`REST APIs` • `Prisma` • `JWT`
+`React` `FastAPI` `Node.js` `Express.js`  
+`REST APIs` `Prisma`
 
 ### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+`PostgreSQL` `MySQL` `MongoDB`
 
 ### 🛠️ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
+`Git` `GitHub` `Linux` `VS Code` `Jupyter` `Google Colab`
 
 ---
 
-# 🐙 My Project Reef
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧠 NeuroSense
-
-### EEG Brain Tumor Classification
-
-A deep-learning project exploring classification of EEG signals.
-
-**Built with**
-
-`Python` `TensorFlow` `Keras`  
-`NumPy` `Pandas` `Scikit-learn`
-
-**Highlights**
-
-- 500+ Kaggle samples
-- EEG preprocessing and normalization
-- CNN-based classification
-- Model evaluation and visualization
-- 90%+ reported accuracy
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏥 CareSync
-
-### Healthcare Management Platform
-
-A full-stack platform connecting patients, doctors and administrators.
-
-**Built with**
-
-`React` `TypeScript` `Node.js`  
-`PostgreSQL` `Prisma` `JWT`
-
-**Highlights**
-
-- Patient / Doctor / Admin portals
-- Appointment management
-- Medical records & prescriptions
-- Transaction-based slot locking
-- AI symptom triage & note summarization
-
-> **Everything in place. Everyone in sync.**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛡️ RiskTrack
-
-### Transaction Risk Detection
-
-A backend risk engine designed to identify unusual transaction activity.
-
-**Built with**
-
-`FastAPI` `Python` `SQLAlchemy`  
-`PostgreSQL`
-
-**Signals explored**
-
-- Transaction velocity
-- Amount anomalies
-- Geographic mismatch
-- Unusual transaction hours
-- New merchant activity
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💰 FinFlow AI
-
-### Expense Management
-
-An expense-management application focused on budgeting and financial organization.
-
-**Built with**
-
-`React` `Node.js` `Express`  
-`PostgreSQL` `Prisma`
-
-**Features**
-
-- Expense categorization
-- Budget management
-- Multiple financial goals
-- Protected API endpoints
-- AI-powered functionality
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🗺️ My Tech Journey
+# 🤿 Currently Learning
 
 ```text
-                         🌊 NOW
-                           │
-                    🧠 GenAI / LLMs
-                           │
-                    📊 Data Science
-                           │
-                   🤖 Machine Learning
-                           │
-                    ⚡ Development
-                           │
-                    💻 CS Fundamentals
-                           │
-                      🎓 VIT Bhopal
-                           │
-                          2023
+                    🌊 DEEPER DIVE
+
+                       GenAI
+                         ↓
+                  Data Science
+                         ↓
+                Machine Learning
+                         ↓
+              Backend Engineering
+                         ↓
+              Better Software Design
