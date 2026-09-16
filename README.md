@@ -26,8 +26,8 @@ I'm a Computer Science Engineering student who enjoys turning
 
 `██████████████████░░`
 
-Building and experimenting with ML models,
-feature engineering and model evaluation.
+Building and experimenting with predictive models,
+feature engineering, and explainable architectures.
 
 </td>
 
@@ -39,8 +39,8 @@ feature engineering and model evaluation.
 
 `█████████████████░░░`
 
-Exploring EDA, statistical analysis,
-visualization and predictive analytics.
+Conducting exploratory data analysis, statistical modeling,
+and real-time inference pipelines.
 
 </td>
 
@@ -50,27 +50,27 @@ visualization and predictive analytics.
 
 <td width="50%">
 
-### 🧠 GenAI & LLMs
+### 🧠 Generative AI & LLMs
 
 **80%**
 
 `████████████████░░░░`
 
-Building AI-powered applications and
-exploring LLM-based solutions.
+Developing intelligent agents, contextual workflows,
+and fine-tuned language applications.
 
 </td>
 
 <td width="50%">
 
-### ⚡ FastAPI & Backend
+### ⚡ Backend Engineering
 
-**75%**
+**78%**
 
 `███████████████░░░░░`
 
-Building REST APIs, backend services
-and AI-powered applications.
+Designing high-throughput microservices, robust REST APIs,
+and relational database architectures.
 
 </td>
 
@@ -82,11 +82,11 @@ and AI-powered applications.
 ## 💜 A Little More About Me
 
 - 🎓 Final-year **Computer Science Engineering** student at **VIT Bhopal**
-- 📚 Strong interest in **Artificial Intelligence, Machine Learning and Data Science**
-- 📊 Interested in solving problems using **data, statistics and predictive models**
-- 💻 Building backend systems with **FastAPI, Node.js and REST APIs**
-- 🧠 Exploring **GenAI and LLM-powered applications**
-- 🚀 I enjoy turning ideas into working projects
+- 📚 Focused on **Applied Artificial Intelligence, Machine Learning, and Distributed Backends**
+- 📊 Passionate about solving complex problems through **data architecture, statistics, and system design**
+- 💻 Building robust end-to-end applications from database schemas to interactive client interfaces
+- 🧠 Fine-tuning transformer models and crafting explainable AI solutions
+- 🚀 I enjoy turning technical concepts into production-ready software
 - 🏐 Volleyball enthusiast outside the world of code
 - ☕ Coffee + Music + Coding = Perfect Productivity
 
@@ -94,111 +94,21 @@ and AI-powered applications.
 
 ## 🛠️ Technical Skills
 
-<table>
-<tr>
-<td align="center" width="16.6%">
-<b>C++</b><br>
-<img src="https://skillicons.dev/icons?i=cpp" width="45"/>
-</td>
-
-<td align="center" width="16.6%">
-<b>Java</b><br>
-<img src="https://skillicons.dev/icons?i=java" width="45"/>
-</td>
-
-<td align="center" width="16.6%">
-<b>Python</b><br>
-<img src="https://skillicons.dev/icons?i=python" width="45"/>
-</td>
-
-<td align="center" width="16.6%">
-<b>SQL</b><br>
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/>
-</td>
-
-<td align="center" width="16.6%">
-<b>HTML</b><br>
-<img src="https://skillicons.dev/icons?i=html" width="45"/>
-</td>
-
-<td align="center" width="16.6%">
-<b>CSS</b><br>
-<img src="https://skillicons.dev/icons?i=css" width="45"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>JavaScript</b><br>
-<img src="https://skillicons.dev/icons?i=javascript" width="45"/>
-</td>
-
-<td align="center">
-<b>Node.js</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
-</td>
-
-<td align="center">
-<b>Express.js</b><br>
-<img src="https://skillicons.dev/icons?i=express" width="45"/>
-</td>
-
-<td align="center">
-<b>React</b><br>
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-</td>
-
-<td align="center">
-<b>FastAPI</b><br>
-<img src="https://skillicons.dev/icons?i=fastapi" width="45"/>
-</td>
-
-<td align="center">
-<b>AWS</b><br>
-<img src="https://skillicons.dev/icons?i=aws" width="45"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>TensorFlow</b><br>
-<img src="https://skillicons.dev/icons?i=tensorflow" width="45"/>
-</td>
-
-<td align="center">
-<b>Scikit-learn</b><br>
-<img src="https://skillicons.dev/icons?i=sklearn" width="45"/>
-</td>
-
-<td align="center">
-<b>Git</b><br>
-<img src="https://skillicons.dev/icons?i=git" width="45"/>
-</td>
-
-<td align="center">
-<b>Linux</b><br>
-<img src="https://skillicons.dev/icons?i=linux" width="45"/>
-</td>
-
-<td align="center">
-<b>VS Code</b><br>
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/>
-</td>
-
-<td align="center">
-<b>Figma</b><br>
-<img src="https://skillicons.dev/icons?i=figma" width="45"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,py,ts,js,html,css,react,nextjs,vue,tailwind,nodejs,express,fastapi,dotnet,postgres,mongodb,mysql,aws,docker,linux,git,vscode,figma&perline=8" />
+</div>
 
 <br>
 
-**AI/ML & Data:** NumPy • SciPy • Pandas • Matplotlib • Seaborn • Transformers
-
-**Backend:** REST APIs • JWT
-
-**Concepts:** OOP • Data Structures & Algorithms • Supervised Learning • Data Modeling • NLP • Clustering • Deep Learning
+| Domain | Ecosystem & Tooling |
+| :--- | :--- |
+| **Languages** | Java • C++ • Python • TypeScript • JavaScript • SQL |
+| **Backend & APIs** | FastAPI • ASP.NET Core (.NET 8) • Node.js • Express.js • REST APIs • JWT |
+| **Frontend & Design** | React • Next.js • Vue.js • Tailwind CSS • HTML5 • CSS3 • Figma |
+| **Databases & ORM** | PostgreSQL • MongoDB • MySQL • Prisma ORM • Entity Framework |
+| **AI / ML & Data** | TensorFlow • Scikit-learn • Pandas • NumPy • SciPy • Matplotlib • Seaborn • SHAP • Transformers |
+| **Cloud & DevOps** | AWS (S3, SageMaker, RDS) • Docker • Git • Linux • VS Code |
+| **Core Concepts** | Data Structures & Algorithms • OOP • Supervised Learning • Deep Learning • NLP • System Design |
 
 ---
 
@@ -212,15 +122,15 @@ and AI-powered applications.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Engineering Trajectory
 
 ```text
-Machine Learning
-      ↓
-Data Science & Statistical Analysis
-      ↓
-GenAI & LLM Applications
-      ↓
-FastAPI & Backend Engineering
-      ↓
-Scalable AI-powered Systems
+Algorithmic Problem Solving & System Architecture
+                     ↓
+Predictive Analytics & Statistical Modeling
+                     ↓
+Explainable Deep Learning & Generative AI
+                     ↓
+High-Throughput Microservices & Cloud Infrastructure
+                     ↓
+Production-Grade Intelligent Distributed Systems
