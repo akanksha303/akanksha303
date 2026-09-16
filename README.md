@@ -94,111 +94,95 @@ and AI-powered applications.
 
 ## 🛠️ My Tech Stack
 
-### 👩‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
-</p>
-
-### 🤖 AI / ML & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</p>
-
-`NumPy` • `Pandas` • `SciPy` • `Matplotlib` • `NLP` • `Transformers`
-
-### ⚡ Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mysql,mongodb" />
-</p>
-
-`REST APIs` • `SQL` • `Prisma` • `JWT`
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
 <table>
 <tr>
+<td align="center" width="25%">
 
-<td width="50%">
+### 👩‍💻 Languages
 
-### 🧠 NeuroSense
-
-**EEG Brain Tumor Classification**
-
-Machine learning project focused on classifying EEG signals using CNNs.
-
-**Tech:**  
-Python • TensorFlow • Keras • NumPy • Pandas • Scikit-learn
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=3" />
 
 </td>
 
-<td width="50%">
+<td align="center" width="25%">
 
-### 🏥 CareSync
+### 🤖 AI / ML
 
-**Healthcare Management Platform**
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&perline=3" />
 
-A full-stack platform connecting patients, doctors and administrators with appointment and medical-record management.
+<br><br>
 
-**Tech:**  
-React • TypeScript • Node.js • PostgreSQL • Prisma • JWT • Groq API
+NumPy • Pandas • Keras
 
 </td>
 
+<td align="center" width="25%">
+
+### 📊 Data
+
+<img src="https://skillicons.dev/icons?i=python&perline=3" />
+
+<br><br>
+
+SciPy • Matplotlib • NLP • Transformers
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡ Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&perline=3" />
+
+<br><br>
+
+REST APIs • Prisma
+
+</td>
 </tr>
 
 <tr>
 
-<td width="50%">
+<td align="center">
 
-### 💰 FinFlow AI
+### 🗄️ Databases
 
-**AI Expense Management**
-
-Expense tracking and budgeting application with categorized spending, financial goals and AI-powered functionality.
-
-**Tech:**  
-React • Node.js • Express • PostgreSQL • Prisma
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
 
 </td>
 
-<td width="50%">
+<td align="center">
 
-### 🛡️ RiskTrack
+### 🌐 Frontend
 
-**Transaction Risk Detection**
+<img src="https://skillicons.dev/icons?i=react,html,css&perline=3" />
 
-A risk-scoring backend that analyzes transaction signals such as velocity, amount anomalies, geographic mismatch and unusual activity.
+</td>
 
-**Tech:**  
-FastAPI • Python • SQLAlchemy • PostgreSQL
+<td align="center">
+
+### 🔐 Authentication
+
+<br>
+
+`JWT`
+
+<br><br>
+
+`RBAC`
+
+</td>
+
+<td align="center">
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=3" />
 
 </td>
 
 </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=akanksha303&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha303&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
